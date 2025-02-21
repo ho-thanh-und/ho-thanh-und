@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **anything fun**
 
-- 📫 How to reach me **hct2508@gmail.com**
+- 📫 How to reach me **hothanh@u.nus.edu**
 
-- ⚡ Fun fact **I play too much sports**
+- ⚡ Fun fact **I enjoy playing sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
