@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ho-thanh-und" alt="ho-thanh-und" /></a> </p>
 
-- 🔭 I’m currently working on **a full-stack application while interning at NUS MVP Studio**
+- 🔭 I’m currently working on **full-stack applications while interning at NUS MVP Studio**
 
 - 🌱 I’m currently learning **Web Development and Cyber Security**
 
