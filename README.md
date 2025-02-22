@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hothanh@u.nus.edu**
 
-- ⚡ Fun fact **I enjoy playing sports**
+- ⚡ Fun fact **I enjoy playing many sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
