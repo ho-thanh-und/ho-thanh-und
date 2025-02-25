@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanh</h1>
+<h1 align="center">Hi, I'm Thanh 👋</h1>
 <h3 align="center">A curious student pursuing CS at The National University of Singapore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-thanh-und&label=Profile%20views&color=0e75b6&style=flat" alt="ho-thanh-und" /> </p>
