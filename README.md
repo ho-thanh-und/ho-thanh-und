@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **full-stack applications while being a part-time SWE Intern**
 
-- 🌱 I’m currently learning **Web Development and Cyber Security**
+- 🌱 I’m currently learning **Full-Stack Development and Cyber Security**
 
 - 👯 I’m looking to collaborate on **anything fun**
 
