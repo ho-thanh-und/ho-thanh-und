@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ho-thanh-und&theme=nord" alt="ho-thanh-und" /></a> </p>
 
-- 🔭 I’m currently working on **full-stack applications while being a part-time SWE Intern**
+- 🔭 I’m currently working on **full-stack applications while being a SWE Intern**
 
 - 🌱 I’m currently learning **Full-Stack Development and Cyber Security**
 
