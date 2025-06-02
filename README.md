@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ho-thanh-und&show_icons=true&locale=en&layout=compact" alt="ho-thanh-und" /></p>
 
-![Alt](https://repobeats.axiom.co/api/embed/da1c940f0135aece8b9942f518b44dacc39bd9ce.svg 'Repobeats analytics image')
+![Alt](https://repobeats.axiom.co/api/embed/06783a581dee41c3fb9afc11700b8ca32115b846.svg "Repobeats analytics image")
